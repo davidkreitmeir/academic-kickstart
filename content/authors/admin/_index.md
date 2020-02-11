@@ -76,4 +76,5 @@ user_groups:
 ---
 I am currently a PhD Candidate at Monash University after receiving my BSc and MSc in Economics from the University of Munich (LMU).
 My research interests include political economy, comparative development and civil conflict. A particular interest of mine is to study the role of institutions in the context of human right violations.
+
 I enjoy applying modern machine learning methods to answer empirical questions and extract novel datasets from text corpora.
