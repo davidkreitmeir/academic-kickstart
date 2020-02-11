@@ -24,7 +24,8 @@ bio: I am a PhD candidate interested in the economics of conflict and human righ
 
 interests:
 - Political Economy
-- Civil Conflict and Human Rights Violations
+- Comparative Development
+- Civil Conflict
 - Text as Data
 
 
@@ -73,7 +74,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am currently a PhD Candidate at Monash University after receiving my BSc and MSc in Economics from the University of Munich (LMU).
+My research interests include political economy, comparative development and civil conflict. A particular interest of mine is to study the role of institutions in the context of human right violations.
+I enjoy applying modern machine learning methods to answer empirical questions and extract novel datasets from text corpora.
