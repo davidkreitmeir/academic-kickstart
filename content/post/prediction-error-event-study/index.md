@@ -3,8 +3,8 @@
 
 title: "Correction for Prediction Errors in Event Studies"
 subtitle: ""
-summary: ""
-authors: []
+summary: "Short guide on how to correct for prediction errors in event studies in STATA"
+authors: [David]
 tags: []
 categories: []
 date: 2020-02-11T15:36:36+11:00
@@ -27,3 +27,5 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+In most textbooks (...) the prediction error correction for event studies in Finance is presented in matrix form. This often raises the question on how to best implement the correction in code format. Below I present a simple formula taken from (...) to 
