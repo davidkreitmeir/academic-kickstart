@@ -1,11 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Returns to Repression - Firm Asset Price Responses to Activist Assassinations in
-Resource Rich Economies"
+title: "Returns to Repression"
+subtitle: " Firm Asset Price Responses to Activist Assassinations in
+Resource Rich Economies - with Nathan Lane and Paul Raschky"
 summary: "How do markets respond to extra-judicial assassinations of
 activists in resource-rich economies? An event study approach."
-authors: [Nathan Lane, David Kreitmeir, Paul Raschky]
+authors:  []
 tags: []
 categories: []
 date: 2020-02-15T14:28:34+11:00
@@ -18,7 +19,7 @@ external_link: ""
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: ""
+  focal_point: "Center"
   preview_only: false
 
 # Custom links (optional).
