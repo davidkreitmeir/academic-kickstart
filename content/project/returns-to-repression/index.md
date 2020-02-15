@@ -3,15 +3,15 @@
 
 title: "Returns to Repression - Firm Asset Price Responses to Activist Assassinations in
 Resource Rich Economies"
-subtitle: "with Nathan Lane and Paul Raschky"
-summary: ""
-authors: []
+summary: "How do markets respond to extra-judicial assassinations of
+activists in resource-rich economies? An event study approach."
+authors: [Nathan Lane, David Kreitmeir, Paul Raschky]
 tags: []
 categories: []
-date: 2020-02-11T14:17:37+11:00
-lastmod: 2020-02-11T14:17:37+11:00
-featured: false
-draft: false
+date: 2020-02-15T14:28:34+11:00
+
+# Optional external URL for project (replaces project detail page).
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -21,14 +21,26 @@ image:
   focal_point: ""
   preview_only: false
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
----
+# Custom links (optional).
+#   Uncomment and edit lines below to show custom links.
+# links:
+# - name: Follow
+#   url: https://twitter.com
+#   icon_pack: fab
+#   icon: twitter
 
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: ""
+---
 
 Civil society is seen a key ingredient to political and economic development. Our
 study explores the consequences of suppressing civil society. We do so by analyzing
