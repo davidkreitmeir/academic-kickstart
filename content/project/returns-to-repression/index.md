@@ -3,7 +3,7 @@
 
 title: "Returns to Repression"
 subtitle: " Firm Asset Price Responses to Activist Assassinations in
-Resource Rich Economies - with Nathan Lane and Paul Raschky"
+Resource Rich Economies - with [Nathan Lane](http://nathanlane.info/) and [Paul Raschky](https://praschky.github.io/)"
 summary: "How do markets respond to extra-judicial assassinations of
 activists in resource-rich economies? An event study approach."
 authors:  []
