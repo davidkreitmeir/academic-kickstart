@@ -24,8 +24,9 @@ bio: I am a PhD candidate interested in the economics of conflict and human righ
 
 interests:
 - Political Economy
-- Comparative Development
-- Civil Conflict
+- Civil Conflict & Human Right Violations
+- Applied Econometrics
+- ML & High Dimensional Methods
 - Text as Data
 
 
