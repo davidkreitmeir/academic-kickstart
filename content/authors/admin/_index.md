@@ -27,7 +27,6 @@ interests:
 - Civil Conflict & Human Right Violations
 - Applied Econometrics
 - ML & High Dimensional Methods
-- Text as Data
 
 
 
@@ -76,6 +75,7 @@ user_groups:
 - Visitors
 ---
 I am currently a PhD Candidate at Monash University after receiving my BSc and MSc in Economics from the University of Munich (LMU).
-My research interests include political economy, comparative development and civil conflict. A particular interest of mine is to study the role of institutions in the context of human right violations.
+My research interests include Political Economy, Applied Econometrics, and Civil conflict & Human Right Violations.
+<!--- My current projects aim to contribute to a better understanding of the role of institutions in the context of human rights violations. --->
 
-I enjoy applying modern machine learning methods to answer empirical questions and extract novel datasets from text corpora.
+I enjoy applying modern ML and High Dimensional methods to answer empirical questions and extract novel datasets from text corpora.
