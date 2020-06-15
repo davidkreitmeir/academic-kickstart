@@ -34,7 +34,7 @@ education:
   courses:
   - course: PhD in Economics
     institution: Monash University
-    year: 2021 (Anticipated)
+    year: 2022 (Anticipated)
   - course: MSc in Economics
     institution: University of Munich (LMU)
     year: 2018
