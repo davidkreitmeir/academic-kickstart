@@ -18,6 +18,8 @@ organizations:
   url: "https://www.monash.edu/"
 - name: Monash Business School
   url: "https://www.monash.edu/business/economics"
+- name: SoDa Labs
+  url: "https://www.monash.edu/business/soda-labs/home"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a PhD candidate interested in the economics of conflict and human right violations
