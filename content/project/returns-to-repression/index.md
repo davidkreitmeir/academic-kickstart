@@ -2,14 +2,13 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Returns to Repression"
-subtitle: " Firm Asset Price Responses to Activist Assassinations in
-Resource Rich Economies - with [Nathan Lane](http://nathanlane.info/) and [Paul Raschky](https://praschky.github.io/)"
-summary: "How do markets respond to extra-judicial assassinations of
-activists in resource-rich economies? An event study approach."
+subtitle: " Asset Price Responses to Activist Assassination - with [Nathan Lane](http://nathanlane.info/) and [Paul Raschky](https://praschky.github.io/)"
+summary: "How do financial markets react to mining companies being linked to assassinations of
+activists? An event study approach."
 authors:  []
 tags: []
 categories: []
-date: 2020-02-15T14:28:34+11:00
+date: 2020-07-20T14:28:34+11:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -43,6 +42,4 @@ url_video: ""
 slides: ""
 ---
 
-Civil society is seen a key ingredient to political and economic development. Our study explores the consequences of suppressing civil society. We do so by analyzing market responses to a severe form of repression: the extra-judicial assassinations of activists in resource-rich economies.
-We conduct an event study using hundreds of rare, hand-coded records of activist assassinations—including the names of implicated companies. We implement our unique, large-scale asset price study, by creating firm-level measures of "exposure" to violence and comparing the cumulative abnormal returns (CARs) across firms differentially exposed to events. By analyzing outcomes before and after violence, we answer two questions: 1) Examining asset price movements prior to killings, we test for whether markets reveal prior knowledge of violence. 2) Our main analysis then explores asset price movements after assassinations to investigate investor responses to violence. 
-We find extrajudicial killings lead to highly significant negative abnormal returns for companies associated with violence. These effects are also highly persistent. Next, using the rich global reach of our study, we explore how market reactions vary by measures of institutional quality. We show the extent to which firms face repercussions from violence is significantly related to the quality of state institutions. Thus, our findings indicate that markets punish firms most likely to benefit from the suppression of civil society, though less so under weak states.
+Civil society and free media are key constraints to corporate misconduct. Our study explores the stock market's reaction to attempts to suppress civil activism in the global natural resource sector. We collect new data on hundreds of extra-judicial assassinations of environmental activists of the past 20 years—and the publicly traded mining companies associated with these events. Applying event study methodology, we show that the extra-judicial killing of activists leads to significant negative abnormal returns for mining companies tied to violence. For these companies, the median loss in market capitalisation is over 100 million USD, ten days following the event. We show that media coverage plays an important role in these effects: negative returns are stronger during periods of low media pressure versus when assassinations coincide with newsworthy events. We further show that the negative impacts of assassinations are not driven by other forms of civil unrest. Finally, we find tentative evidence that the occurrence of assassinations is positively related to the royalties paid by firms to domestic governments.
