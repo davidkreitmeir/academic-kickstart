@@ -27,7 +27,7 @@ abstract: "Civil society is essential to governing, where laws and authority are
 summary: "Civil society is essential to governing, where laws and authority are weak. We study how a core strategy of international civil society groups---informing and publicizing human rights abuses---impacts those tied to abuse. Collecting and coding 20 years of data on assassination events civil society activists involved in mining activity, we use Event Study Methodology to study how publicity of these events impact the asset prices of firms associated with abuse."
 
 # Is this a featured talk? (true/false)
-featured: false
+#featured:
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -69,5 +69,4 @@ url_code: ""
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   #focal_point = "Right"
-
-  ---
+---
