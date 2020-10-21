@@ -1,5 +1,7 @@
 ---
-title: "The Value of Names - Civil Society, Information, and Governing Multinationals on the Global Periphery"
+title: "The Value of Names"
+subtitle: "Civil Society, Information, and Governing Multinationals on the Global Periphery"
+
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
