@@ -80,4 +80,4 @@ I am currently a PhD Candidate at Monash University after receiving my BSc and M
 My research interests include Political Economy, Applied Econometrics, and Civil conflict & Human Right Violations.
 <!--- My current projects aim to contribute to a better understanding of the role of institutions in the context of human rights violations. --->
 
-I enjoy sinking my teeth into data projects and apply modern ML and High Dimensional methods to answer empirical questions and create novel datasets.
+I enjoy sinking my teeth into data projects and apply modern ML and High Dimensional methods to answer empirical questions and create novel datasets. My research uses financial data and methods to answer questions in Political Economy, where data is scarce or unreliable. 
