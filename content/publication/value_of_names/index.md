@@ -11,7 +11,7 @@ publishDate: 2021-01-20T18:53:12+11:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 3 = Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 publication_types: ["3"]
 
@@ -19,9 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "Civil society is essential to governance, especially where laws and authority are weak.
-We study how a core strategy of international civil society groups—--informing and publicizing
-human rights abuses—--impacts those tied to abuse. Our study focuses on a major
+abstract: "Civil society is essential to governance, especially where laws and authority are weak. We study how a core strategy of international civil society groups--informing and publicizing human rights abuses--impacts those tied to abuse. Our study focuses on a major
 trend at the center of on-going international media campaigns: the assassination of civil
 society activists involved in mining activity. Collecting and coding 20 years of data on
 assassination events, we use Event Study Methodology to study how publicity of these
@@ -58,7 +56,7 @@ url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source:
+url_source: "https://osf.io/preprints/socarxiv/aw7sq/"
 url_video:
 
 # Featured image
