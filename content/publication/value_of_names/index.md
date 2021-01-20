@@ -59,7 +59,7 @@ url_slides:
 url_source:
 url_video:
 
-url_custom = [{name = "Custom Link", url = "https://osf.io/preprints/socarxiv/aw7sq/"}]
+url_custom : [{name = "Custom Link", url = "https://osf.io/preprints/socarxiv/aw7sq/"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
