@@ -30,7 +30,7 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: "static/files/value-of-names-Dec2020.pdf"
+url_pdf: "content/project/returns-to-repression/value_of_names_Dec2020.pdf"
 url_slides: ""
 url_video: ""
 
