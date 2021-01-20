@@ -56,8 +56,10 @@ url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source: "https://osf.io/preprints/socarxiv/aw7sq/"
+url_source:
 url_video:
+
+url_custom = [{name = "Custom Link", url = "https://osf.io/preprints/socarxiv/aw7sq/"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
