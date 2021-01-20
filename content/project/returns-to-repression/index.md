@@ -43,8 +43,8 @@ slides: ""
 ---
 
 Civil society is essential to governance, especially where laws and authority are weak.
-We study how a core strategy of international civil society groups—-informing and publicizing
-human rights abuses—-impacts those tied to abuse. Our study focuses on a major
+We study how a core strategy of international civil society groups—--informing and publicizing
+human rights abuses—--impacts those tied to abuse. Our study focuses on a major
 trend at the center of on-going international media campaigns: the assassination of civil
 society activists involved in mining activity. Collecting and coding 20 years of data on
 assassination events, we use Event Study Methodology to study how publicity of these
