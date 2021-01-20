@@ -8,7 +8,7 @@ activists? An event study approach."
 authors:  []
 tags: []
 categories: []
-date: 2020-10-21T14:28:34+11:00
+date: 2021-1-10T14:28:34+11:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -30,7 +30,7 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: ""
+url_pdf: "content/project/returns-to-repression/value-of-names-Dec2020.pdf"
 url_slides: ""
 url_video: ""
 
@@ -40,7 +40,22 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
-pdf: "value-of-names-Dec2020.pdf"
 ---
 
-Civil society is essential to governing, where laws and authority are weak. We study how a core strategy of international civil society groups---informing and publicizing human rights abuses---impacts those tied to abuse. Our study focuses on a major trend at the center of on-going international media campaigns: the assassination of civil society activists involved in mining activity. Collecting and coding 20 years of data on assassination events, we use Event Study Methodology to study how publicity of these events impact the asset prices of firms associated with abuse. We show that publicizing abuses has a significant impact on multinationals. Firm's associated with an assassination have large, negative abnormal returns following the event; we calculate a median loss in market capitalisation of over 100 million USD, ten days following violence. We highlight the importance of publicity; we show negative returns are stronger during periods of low media pressure versus when assassinations coincide with competing newsworthy events. We find our results are driven by events where companies are explicitly named in coverage, versus events where they are un-named but operating at the site of killings. Furthermore, we reject that results are driven by other forms of unrest and conflict. Last, we show activist assassinations are positively related to the royalties paid by firms to domestic governments.
+Civil society is essential to governance, especially where laws and authority are weak.
+We study how a core strategy of international civil society groups—-informing and publicizing
+human rights abuses—-impacts those tied to abuse. Our study focuses on a major
+trend at the center of on-going international media campaigns: the assassination of civil
+society activists involved in mining activity. Collecting and coding 20 years of data on
+assassination events, we use Event Study Methodology to study how publicity of these
+events impact the asset prices of firms associated with abuse. We show that publicizing
+abuses has a significant impact on multinationals. Firms associated with an assassination
+have large, negative abnormal returns following the event. We calculate a median loss in
+market capitalisation of over 100 million USD, ten days following violence. We highlight
+the role of media publicity in our results. We show negative returns from assassinations are
+stronger during periods of low media pressure, versus when they coincide with competing
+newsworthy events. As well, we argue our results are driven by events where companies
+are explicitly named in media publicity, using a set of placebo events where no firms were
+identified by news coverage. Furthermore, we reject that our results are driven by other
+forms of unrest and conflict. Last, we show activist assassinations are positively related
+to the royalties paid by firms to domestic governments.
