@@ -16,7 +16,7 @@ publishDate: 2021-01-20T18:53:12+11:00
 #publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "[Working Paper](https://osf.io/preprints/socarxiv/aw7sq/)"
+#publication: "[Working Paper](https://osf.io/preprints/socarxiv/aw7sq/)"
 publication_short: ""
 
 abstract: "Civil society is essential to governance, especially where laws and authority are weak. We study how a core strategy of international civil society groups--informing and publicizing human rights abuses--impacts those tied to abuse. Our study focuses on a major
