@@ -16,7 +16,7 @@ publishDate: 2021-01-20T18:53:12+11:00
 #publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "[Working Paper](https://osf.io/preprints/socarxiv/aw7sq/)"
 publication_short: ""
 
 abstract: "Civil society is essential to governance, especially where laws and authority are weak. We study how a core strategy of international civil society groups--informing and publicizing human rights abuses--impacts those tied to abuse. Our study focuses on a major
@@ -59,7 +59,7 @@ url_slides:
 url_source:
 url_video:
 
-url_custom : [{name = "Custom Link", url = "https://osf.io/preprints/socarxiv/aw7sq/"}]
+#url_custom = [{name = "Custom Link", url = "https://osf.io/preprints/socarxiv/aw7sq/"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -83,3 +83,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+Media Coverage: [Quartz](https://qz.com/1954869/markets-hold-companies-accountable-for-human-rights-violations/); [Mongabay](https://news.mongabay.com/2021/01/environmental-assassinations-bad-for-business-new-research-shows/)
