@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Automate the boring stuff: SQL Query building for WRDS"
-subtitle: "A simple python program to automate the SQL query building for Wharton's Reasearch Data Service [WRDS]"
+subtitle: "A simple python program to automate the SQL query building for Wharton's WRDS"
 summary: ""
 authors: []
 tags: []
@@ -159,7 +159,7 @@ query = build_query(dataset ="comp.names",
 # let's send the query to WRDS
 
 # establish connection
-db = wrds.Connection(wrds_username = 'davidkre')
+db = wrds.Connection(wrds_username = 'your_username')
 ```
 
     Loading library list...
