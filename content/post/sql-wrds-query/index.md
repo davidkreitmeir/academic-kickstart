@@ -61,7 +61,7 @@ def build_query(dataset, **kwargs):
             cusip (str or list):  Filter of one or a list of CUSIP symbols, default to None
             limit (int): Return only a number of return records, defualt to None
         Returns:
-            pandas.DataFrame: WRDS query results
+            (str) with query
     """
     columns = kwargs.get("columns", None)
     sic = kwargs.get("sic", None)
