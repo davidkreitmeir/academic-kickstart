@@ -32,7 +32,18 @@ The following is a simple `python` program to automate the SQL query building in
 
 ## First things first
 First, we need to load the library and connect to the WRDS database. This is easiest when using `Jupyter Notebooks`. WRDS provides a nice tutorial on how to connect to WRDS from `Jupyter Notebooks`, which can be found here:  
-https://wrds-www.wharton.upenn.edu/documents/1443/wrds_connection.html
+https://wrds-www.wharton.upenn.edu/documents/1443/wrds_connection.html  
+
+You should now hopefully be able to connect to the WRDS database with your account:
+
+```python
+# establish connection
+db = wrds.Connection(wrds_username = 'your_username')
+```
+
+    Loading library list...
+    Done
+
 
 ## Now let's build some queries
 
@@ -139,7 +150,7 @@ def build_query(dataset, **kwargs):
 
 Now let's see the function in action. The example case uses the Compustat database (`comp`). Let's assume we're interested in companies in specific industrial sectors and we know their SIC codes. We would now like to retrieve their financial fundamentals.
 
-Since `comp.funda` does not allow us to filter based SIC codes directly, we first extract the codes of the relevant companies from the `comp.names` database.
+Since `comp.funda` does not allow us to filter based on SIC codes directly, we first extract the codes of the relevant companies from the `comp.names` database.
 
 
 ```python
@@ -154,21 +165,8 @@ query = build_query(dataset ="comp.names",
     select * from comp.names where sic in ('1011','1021','1031','1041','1044','1061','1081','1094')
 
 
-
 ```python
-# let's send the query to WRDS
-
-# establish connection
-db = wrds.Connection(wrds_username = 'your_username')
-```
-
-    Loading library list...
-    Done
-
-
-
-```python
-# qery database
+# let's send the SQL query to WRDS
 df = db.raw_sql(query)
 ```
 
@@ -195,7 +193,7 @@ query = build_query(dataset ="comp.funda",
 
     select gvkey,datadate,fyear,indfmt,consol,popsrc,datafmt,tic,cusip,conm,revt from comp.funda where datadate between '2000-01-01' and '2020-01-01' and gvkey in ('002127','003104','003808','009725','010171','010174','010910','013036','013400','014136','017005','033113','062038','066405','105464','105572','107248','108326','108768','156014','160849','165672','171083','175060','179566','186093','186778','187597')
 
-
+Let's see what the output of the query looks like:
 
 ```python
 # qery database
@@ -312,8 +310,11 @@ df.head()
 </table>
 </div>
 
+There are many more potential filters one could think of and implement in the function. I hope the base function above can build a nice foundation for your own use case. Please feel free to send me your expanded functions and ideas. 
+
+Oh and...
 
 ```python
-# don't forget to close your session if you're done ;)
+# ...don't forget to close your session if you're done ;)
 db.close()
 ```
