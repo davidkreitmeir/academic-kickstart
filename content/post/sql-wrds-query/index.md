@@ -308,6 +308,8 @@ df.head()
 </table>
 </div>
 
+## (Not so famous) last words
+
 There are many more potential filters one could think of and implement in the function. I hope the base function above can build a nice foundation for your own use case. Please feel free to send me your expanded functions and ideas.
 
 Oh and...
