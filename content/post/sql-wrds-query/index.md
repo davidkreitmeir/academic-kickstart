@@ -37,7 +37,11 @@ https://wrds-www.wharton.upenn.edu/documents/1443/wrds_connection.html
 You should now hopefully be able to connect to the WRDS database with your account:
 
 ```python
-# establish connection
+# load libraries
+import wrds
+import pandas as pd
+
+# connect to WRDS
 db = wrds.Connection(wrds_username = 'your_username')
 ```
 
@@ -50,12 +54,6 @@ db = wrds.Connection(wrds_username = 'your_username')
 Simplified, SQL queries take the general form:```select columns from library.dataset where column1 = value```. While it's of course an option to just manually write SQL queries, this gets very fast, very cumbersome when specifying many conditions (I also tend to sneak in typos).
 
 The following `python` function can take different arguments--such as column names or SIC codes--and automatically builds the query for a specific dataset (the only required argyment).
-
-```python
-import wrds
-import pandas as pd
-```
-
 
 ```python
 def build_query(dataset, **kwargs):
@@ -310,7 +308,7 @@ df.head()
 </table>
 </div>
 
-There are many more potential filters one could think of and implement in the function. I hope the base function above can build a nice foundation for your own use case. Please feel free to send me your expanded functions and ideas. 
+There are many more potential filters one could think of and implement in the function. I hope the base function above can build a nice foundation for your own use case. Please feel free to send me your expanded functions and ideas.
 
 Oh and...
 
